@@ -14,7 +14,7 @@ Compiling and running code using Netbeans (Video) : https://www.youtube.com/watc
 
 ![](http://emaraic.com/assets/img/posts/machine-learning/example-3.png)
 
-
+/home/parakh/Pictures/Screenshot from 2020-04-16 00-14-01.png
 
 
 
